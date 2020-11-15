@@ -1,0 +1,1 @@
+A silly program to parse text out of my clipboard and replace it with what I actually need.
